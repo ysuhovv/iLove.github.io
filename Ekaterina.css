@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.conteiner {
+    max-width: 750px;
+    margin: auto;
+}
+
+#Hello {
+    text-align: center;
+    color: rgb(240, 112, 112);
+}
+
+#hello1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: grey;
+    font-size:small;
+    font-weight: 655;
+}
+
+.mercy {
+
+    border: 3px solid rgb(74, 74, 74);
+    max-width: 31%;
+ margin-left: 31%;
+ background-color: lightcoral;;   
+ border-radius: 10px;
+}
+
+.mercy p {
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.form h1 {
+    text-align: center;
+    color: rgb(240, 112, 112);
+    font-size:xx-large;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form {
+    font-style: normal;
+    line-height: 30px;
+    background-color: rgb(240 220 237);
+    border-radius: 10px;
+    border: 2px solid #111;
+    padding: 15px 10px ;
+    margin-bottom: 20px;
+    color: #292c32;
+
+}
+
+
+.list li {
+    margin: 15px 15px 15px 15px;
+    
+}
